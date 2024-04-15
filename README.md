@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Git Hub Repo Link ](https://github.com/KrishnaPoddar1/ArtcilePreviewComponent.git)
+- Live Site URL: [Live site URL ](https://krishnapoddar1.github.io/ArtcilePreviewComponent/)
 
 ## My process
 
